@@ -9,4 +9,5 @@
 - [`2- ¡Ayuda al elfo a listar los regalos!`](docs/ayudaAlElfo.md)
 - [`3- ¡El Grinch quiere fastidiar la Navidad!`](docs/arreglarElLio.md)
 - [`4- ¡Es hora de poner la navidad en casa!`](docs/arbolDeNavidad.md)
-- [`4- Contando los días para los regalos`](docs/diasParaNavidad.md)
+- [`5- Contando los días para los regalos`](docs/diasParaNavidad.md)
+- [`6- Rematando los exámenes finales`](docs/sumarParejas.md)
