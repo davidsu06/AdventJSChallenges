@@ -11,3 +11,4 @@
 - [`4- ¡Es hora de poner la navidad en casa!`](docs/arbolDeNavidad.md)
 - [`5- Contando los días para los regalos`](docs/diasParaNavidad.md)
 - [`6- Rematando los exámenes finales`](docs/sumarParejas.md)
+- [`7- Buscando en el almacén...`](docs/buscandoAlmacen.md)
