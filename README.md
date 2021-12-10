@@ -14,3 +14,4 @@
 - [`7- Buscando en el almacén...`](docs/buscandoAlmacen.md)
 - [`8- La locura de las criptomonedas`](docs/locuraCriptomonedas.md)
 - [`9- Agrupando cosas automáticamente`](docs/agrupandoCosas.md)
+- [`10- La máquina de cambio`](docs/maquinaDeCambio.md)
