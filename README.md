@@ -15,3 +15,4 @@
 - [`8- La locura de las criptomonedas`](docs/locuraCriptomonedas.md)
 - [`9- Agrupando cosas automáticamente`](docs/agrupandoCosas.md)
 - [`10- La máquina de cambio`](docs/maquinaDeCambio.md)
+- [`11- ¿Vale la pena la tarjeta fidelidad del cine?`](docs/tarjetaCine.md)
