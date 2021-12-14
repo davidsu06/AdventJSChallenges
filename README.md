@@ -18,3 +18,4 @@
 - [`11- ¿Vale la pena la tarjeta fidelidad del cine?`](docs/tarjetaCine.md)
 - [`12- La ruta perfecta para dejar los regalos`](docs/rutaPerfectaRegalos.md)
 - [`13- Envuelve regalos con asteriscos`](docs/envuelveRegalos.md)
+- [`14- En busca del reno perdido`](docs/renoPerdido.md)
