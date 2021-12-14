@@ -17,3 +17,4 @@
 - [`10- La máquina de cambio`](docs/maquinaDeCambio.md)
 - [`11- ¿Vale la pena la tarjeta fidelidad del cine?`](docs/tarjetaCine.md)
 - [`12- La ruta perfecta para dejar los regalos`](docs/rutaPerfectaRegalos.md)
+- [`13- Envuelve regalos con asteriscos`](docs/envuelveRegalos.md)
