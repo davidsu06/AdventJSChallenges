@@ -19,3 +19,4 @@
 - [`12- La ruta perfecta para dejar los regalos`](docs/rutaPerfectaRegalos.md)
 - [`13- Envuelve regalos con asteriscos`](docs/envuelveRegalos.md)
 - [`14- En busca del reno perdido`](docs/renoPerdido.md)
+- [`15- El salto perfecto`](docs/elSaltoPerfecto.md)
