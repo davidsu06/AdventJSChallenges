@@ -20,3 +20,4 @@
 - [`13- Envuelve regalos con asteriscos`](docs/envuelveRegalos.md)
 - [`14- En busca del reno perdido`](docs/renoPerdido.md)
 - [`15- El salto perfecto`](docs/elSaltoPerfecto.md)
+- [`16- Descifrando los números...`](docs/descifrandoNumeros.md)
