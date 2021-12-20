@@ -24,3 +24,4 @@
 - [`17- La locura de enviar paquetes en esta época`](docs/enviarPaquetes.md)
 - [`18- El sistema operativo de Santa Claus`](docs/sistemaOperativo.md)
 - [`19- ¿Qué deberíamos aprender en Platzi?`](docs/cursosPlatzi.md)
+- [`20- ¿Una carta de pangramas? ¡QUÉ!`](docs/cartaDePangramas.md)
