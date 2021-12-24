@@ -1,17 +1,13 @@
 function checkIsSameTree(treeA, treeB) {
   if (treeA.value !== treeB.value) return false;
 
-  if (!treeA.left || !treeB.left) {
-    if (treeA.left !== treeB.left) return false;
-  } else {
-    return checkIsSameTree(treeA.left, treeB.left);
-  }
-
-  if (!treeA.right || !treeB.right) {
-    if (treeA.right !== treeB.right) return false;
-  } else {
-    return checkIsSameTree(treeA.right, treeB.right);
-  }
+  for (const branch of ['left', 'right']) {
+    if (!treeA[branch] || !treeB[branch]) {
+      if (treeA[branch] !== treeB[branch]) return false;
+    } else {
+      return checkIsSameTree(treeA[branch], treeB[branch]);
+    }
+  };
 
   return true;
 }
