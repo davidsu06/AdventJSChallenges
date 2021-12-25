@@ -29,3 +29,4 @@
 - [`22- ¿Cuántos adornos necesita el árbol?`](docs/contandoDecoraciones.md)
 - [`23- ¿Puedes reconfigurar las fábricas para no parar de crear regalos?`](docs/reconfigurarFabricas.md)
 - [`24- Comparando árboles de Navidad`](docs/comparandoArboles.md)
+- [`25- El último juego y hasta el año que viene`](docs/ultimoJuego.md)
