@@ -25,3 +25,19 @@ Note:\n is the character that represents a line break.
 Watch out!Make sure you put the right number of * to wrap completely the string.
 
 Good luck!
+
+## Solution
+
+ ```jsx harmony
+function wrapping(gifts) {
+  return gifts.map(gift => {
+    const wrappingPaper = '*'.repeat(gift.length + 2);
+    return wrappingPaper + '\n*' + gift + '*\n' + wrappingPaper;
+  });
+}
+
+const gifts = ['david', 'soto'];
+
+const wrappedGifts = wrapping(gifts)
+console.log(wrappedGifts)
+```
